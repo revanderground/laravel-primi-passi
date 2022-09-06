@@ -1,0 +1,25 @@
+h1{ 
+    color: navy;
+    text-align: center;
+}
+
+h2{
+    color:blue;
+    text-align: center;
+}
+
+div > h1 {
+    width: 800x;
+    margin: 0 auto;
+}
+
+.splash-image{
+    height: 400px;
+    text-align: center;
+    margin-top: 35px;
+}
+
+.image-container{
+    text-align: center;
+    margin: 0 auto;
+}
